@@ -68,10 +68,10 @@ I specialize in:
 ## 📬 Get in Touch
 
 <p>
-  <a href="[https://www.linkedin.com/in/gautam-gohel-83875593" target="_blank">
+  <a href="https://www.linkedin.com/in/gautam-gohel-83875593" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:gautam.gohil658@gmail,.com">
+  <a href="mailto:gautam.gohi658@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>

@@ -1,7 +1,7 @@
-<h1 align="center">👋 Hi, I'm Gautam A. Gohil</h1>
+<h1 align="center">👋 Hi, I'm Gautam A. Gohel</h1>
 
 <p align="center">
-  <b>Senior IT Infrastructure & Cloud Support Specialist</b><br/>
+  <b>IT Infrastructure & Cloud Support Specialist</b><br/>
   📍 GlobalLogic &nbsp;|&nbsp; 11 Years of Experience
 </p>
 
@@ -68,10 +68,10 @@ I specialize in:
 ## 📬 Get in Touch
 
 <p>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <a href="[https://www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/gautam-gohel-83875593)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR-EMAIL@example.com">
+  <a href="mailto:gautam.gohil658@gmail,.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>

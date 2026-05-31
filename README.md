@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Gautam A. Gohel</h1>
+<h1 align="center">👋 Hi, I'm Gautam Gohel</h1>
 
 <p align="center">
   <b>IT Infrastructure & Cloud Support Specialist</b><br/>

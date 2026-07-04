@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>IT Infrastructure & Cloud Support Specialist</b><br/>
-  📍 GlobalLogic &nbsp;|&nbsp; 11 Years of Experience
+  📍 GlobalLogic &nbsp;|&nbsp; 11 + Years of Experience
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@ I specialize in:
 - 🖥️ **User & Application Support** — resolving complex issues across multi-platform environments
 - 🌐 **Server & Network Management** — implementation, monitoring, and troubleshooting
 - 🔐 **Security & Identity** — Firewall management, AD account administration, SEP package creation
-- ☁️ **Multi-Cloud Operations** — Azure, AWS, GCP, and Oracle Cloud
+- ☁️ **Multi-Cloud Operations** — AWS, GCP, Azure, and Oracle Cloud
 - 📧 **O365 Administration** — end-to-end management and support
 - 🩹 **System Patching** — maintaining security compliance across large server fleets
 - 🤝 **Cross-functional Collaboration** — working with diverse teams for smooth project delivery

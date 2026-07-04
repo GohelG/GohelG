@@ -58,7 +58,7 @@ I specialize in:
 |---|---|
 | **IT Support** | User Support, Server Support, Application Troubleshooting |
 | **Identity & Security** | AD Account Management, Firewall Management, SEP Package Creation |
-| **Cloud & Infrastructure** | Azure, AWS, GCP, Oracle Cloud |
+| **Cloud & Infrastructure** | AWS, GCP, Azure, Oracle Cloud |
 | **Productivity Suite** | O365 Administration |
 | **Monitoring & Observability** | Datadog, Grafana, Sentry, CloudWatch, App Insights, Uptrends, Status Cake |
 | **Operations** | System Patching, Network Implementation, Incident Management |
